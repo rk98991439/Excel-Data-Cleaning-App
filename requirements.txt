@@ -1,0 +1,6 @@
+streamlit>=1.46.1   # Web app framework
+pandas               # Data handling
+matplotlib           # Plotting
+seaborn              # Advanced plotting (on top of matplotlib)
+openpyxl   # For reading .xlsx files
+

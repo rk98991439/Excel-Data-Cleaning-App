@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FFFFFF"             # Accent color (e.g., buttons, highlights) - white
+backgroundColor = "#000000"          # Main background - black
+secondaryBackgroundColor = "#1A1A1A" # Sidebar & secondary panels - dark gray
+textColor = "#FFFFFF"                # Text color - white
+font = "sans serif"                  # Font style
